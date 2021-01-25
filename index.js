@@ -4,7 +4,7 @@ import { View, Text } from "react-native";
 export default function index() {
   return (
     <View>
-      <Text>exemplo 1</Text>
+      <Text>exemplo 2</Text>
     </View>
   );
 }
